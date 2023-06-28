@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "binaryGP"]
 	path = binaryGP
 	url = https://github.com/cran/binaryGP
-	shallow = true
-	registered = true
 [submodule "calibrateBinary"]
 	path = calibrateBinary
 	url = https://github.com/cran/calibrateBinary
-	shallow = true
-	registered = true
 [submodule "MRFA"]
 	path = MRFA
 	url = https://github.com/cran/MRFA
-	shallow = true
-	registered = true
