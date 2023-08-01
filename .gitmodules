@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "MRFA"]
+	path = MRFA
+	url = https://github.com/cran/MRFA
 [submodule "binaryGP"]
 	path = binaryGP
 	url = https://github.com/cran/binaryGP
 [submodule "calibrateBinary"]
 	path = calibrateBinary
 	url = https://github.com/cran/calibrateBinary
-[submodule "MRFA"]
-	path = MRFA
-	url = https://github.com/cran/MRFA
